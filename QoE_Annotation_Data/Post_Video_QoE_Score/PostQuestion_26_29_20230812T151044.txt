@@ -1,0 +1,4 @@
+ID; Like; MOS;
+0;0;4;
+1;StartTime: 10:44:63;;
+2;StopTime: 11:13:39;;
