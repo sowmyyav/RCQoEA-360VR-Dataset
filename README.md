@@ -15,46 +15,46 @@ The RCQoEA-360VR folder contains the following six subfolders
 
 The following is a detailed description of each sub-file:
 
-###1.Behavioral_Data
+1.Behavioral_Data
 
 - Raw_EM_Data
 	contains the raw eye movement captured from each participant
 - Raw_HM_Data
 	contains the raw head movement captured from each participant
 
-###2.Physiological_Data
+2.Physiological_Data
 
 - ECG
 	contains the raw and processed ECG data captured from Polar H10 chest belt for each participant
 - GSR
 	contains the raw and processed GSR data captured from Shimmer GSR device for each participant
 
-###3.QoE_Annotation_Data
+3.QoE_Annotation_Data
 
 - Continuous_QoE_Score
 	contains the continuous QoE annotation data captured from the touch-pad for each participant
 - Post_Video_QoE_Score
 	contains the post-video QoE scores captured using within-VR interface for each participant
 
-###4.Questionnaires
+4.Questionnaires
 
 - contains questionnaire data (IPQ, SSQ, NASA TLX and participant information) for each participant
 
-###5.Scripts
+5.Scripts
 
 - Physiological_DataPreprocessing
 	contains the code (python scripts) used for preprocessing the acquired raw data.
 - Unity_RCQoEA
 	contains the Unity scripts used for the experiment
 
-###6.Stimuli
+6.Stimuli
 
 - contains the videos (mp4 format) used in the experiment
 
 
 ## **Dataset Description**
 
-The RCQoEA-360VR Dataset Description.pdf introduces the dataset description and key steps in the stage of data acquisition and pre-processing.
+The RCQoEA-360VR Dataset [Description](https://github.com/sowmyyav/RCQoEA-360VR-Dataset/blob/main/RCQoEA-360VR%20Dataset%20Description.pdf).pdf introduces the dataset description and key steps in the stage of data acquisition and pre-processing.
 
 ## **Dataset License**
 
