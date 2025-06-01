@@ -1,0 +1,3 @@
+LICENSE:
+
+RCQoEA-360VR: Real-time Continuous QoE scores for HMD-based 360° VR dataset © 2024 by Vijayakumar et al. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license ((CC BY-NC 4.0) license (https://creativecommons.org/licenses/by-nc-sa/4.0/).
