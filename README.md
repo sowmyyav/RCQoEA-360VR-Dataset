@@ -1,7 +1,6 @@
 **# RCQoEA-360VR-Dataset: Real-time, Continuous QoE scores for HMD-based 360° VR (RCQoEA 360VR) Dataset**
 
-The RCQoEA-360VR dataset is a novel multi-modal dataset designed for continuous QoE evaluation in virtual reality (VR) environments. In a controlled study (N=32), participants watched five selected 360° video sequences across eight different video quality configurations (from the VQEG database) using a Vive Pro Eye while providing continuous QoE annotations via a touchpad-based input method, enhanced by the DotMorph peripheral visualisation technique.The dataset also includes synchronised physiological signals
-(electrocardiogram and galvanic skin response), behavioural data (eye and head movements) and post-viewing QoE ratings gathered through a within-VR interface. RCQoEA-360VR addresses a critical gap in existing public datasets by providing a fine-grained, synchronised multimodal data for immersive QoE analysis. It offers a unique and valuable resource for the research community, supporting a wide range of research applications, including QoE prediction, behavioural modelling, adaptive streaming, and implicit perceptual analysis.
+The RCQoEA-360VR dataset is a novel multi-modal dataset designed for continuous QoE evaluation in virtual reality (VR) environments. The dataset contains continuous QoE annotations, synchronised physiological signals (ECG and GSR), behavioural data (eye and head movements) and post-viewing QoE ratings gathered through a within-VR interface from 32 participants. RCQoEA-360VR addresses a critical gap in existing public datasets by providing a fine-grained, synchronised multimodal data for immersive QoE analysis, as well as behavioural modelling, adaptive streaming, and implicit perceptual analysis.
 
 **## Dataset Structure**
 
@@ -35,11 +34,11 @@ The following is a detailed description of each sub-file:
 - Continuous_QoE_Score
 	contains the continuous QoE annotation data captured from the touch-pad for each participant
 - Post_Video_QoE_Score
-	contains the post-video QoE scores captured within-VR interface for each participant
+	contains the post-video QoE scores captured using within-VR interface for each participant
 
 4.Questionnaires
 
-- contains questionnaire data for each participant
+- contains questionnaire data (IPQ, SSQ, NASA TLX and participant information) for each participant
 
 5.Scripts
 
@@ -61,7 +60,6 @@ RCQoEA-360VR dataset is licensed under a Creative Commons Attribution-NonCommerc
 
 **## Usage**
 
-We have performed the time alignment of physiological data and videos for each participant, as well as the processing scripts that can be used to generate both the transformed and frame data.
-Researchers can run their analysis methods on them.
+We have performed the time alignment of physiological data and videos for each participant. Researchers can run their analysis methods on them.
 
 For researchers who want to try other data processing methods, you can directly use the raw data.
