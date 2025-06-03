@@ -17,9 +17,9 @@ The following is a detailed description of each sub-file:
 
 1. Behavioral_Data
 
-- Raw_EM_Data
+- EM_Data
 	contains the raw eye movement captured from each participant
-- Raw_HM_Data
+- HM_Data
 	contains the raw head movement captured from each participant
 
 2. Physiological_Data
