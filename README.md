@@ -62,4 +62,4 @@ RCQoEA-360VR dataset is licensed under a Creative Commons Attribution-NonCommerc
 
 ## **Usage**
 
-We have performed the time alignment of physiological data and videos for each participant. Researchers can use the raw data or processed data for the analysis (using AI techniques) of continuous QoE annotation or post-viewing QoE data using physiological or behavioral data.
+We have performed the time alignment of different types of data and videos for each participant. Researchers can use the data for the analysis (using AI techniques) of continuous QoE annotation or post-viewing QoE data based on physiological and behavioral signals.
